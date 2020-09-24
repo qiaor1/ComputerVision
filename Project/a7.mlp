@@ -1,0 +1,69 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="grab0.ply" filename="grab0.ply" visible="1">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab1.ply" filename="grab1.ply" visible="1">
+   <MLMatrix44>
+0.999504 -0.026716 -0.0166631 0.301413 
+0.0279776 0.510769 0.859263 -30.952 
+-0.014445 -0.859303 0.511263 11.188 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab2.ply" filename="grab2.ply" visible="1">
+   <MLMatrix44>
+0.998882 -0.0454959 0.0127656 -0.822784 
+-0.0446708 -0.997268 -0.0588467 -9.35262 
+0.0154086 0.0582106 -0.998185 66.6573 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab3.ply" filename="grab3.ply" visible="1">
+   <MLMatrix44>
+0.999746 -0.0130305 -0.0183778 0.433444 
+-0.0142116 0.268203 -0.963258 23.637 
+0.0174806 0.963275 0.26795 27.4034 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab4.ply" filename="grab4.ply" visible="1">
+   <MLMatrix44>
+0.999614 -0.0276627 -0.00259396 -0.109309 
+0.0240243 0.813673 0.580826 -21.5828 
+-0.0139566 -0.580664 0.814024 3.43464 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab5.ply" filename="grab5.ply" visible="1">
+   <MLMatrix44>
+-0.273032 0.724357 -0.633056 35.3866 
+-0.0591874 0.644164 0.762594 -28.3252 
+0.960182 0.245682 -0.133005 23.9382 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="grab6.ply" filename="grab6.ply" visible="1">
+   <MLMatrix44>
+-0.262831 -0.658302 0.705378 -11.5487 
+-0.823038 -0.228554 -0.519973 21.1448 
+0.503517 -0.717218 -0.481736 40.5056 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" pointColor="131 149 69 255" pointSize="3" wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255">100001000000000000000100000001011000001010100000000100111010000111001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
